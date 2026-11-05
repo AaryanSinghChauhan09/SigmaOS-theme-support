@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-theme-support"
+tier = 2
+description = "Adwaita & GTK4 libadwaita styling bridge, portal color scheme handler"
+contracts = ['theme-support-libadwaita', 'portal-color-scheme-listener', 'css-injector']
+upstream_inspirations = ['https://github.com/linuxmint/libadwaita']
